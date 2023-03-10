@@ -93,7 +93,7 @@ function PageTransitions(){
         }
     })
 
-    // toggle theme
+    // theme
     const themeBtn = document.querySelector('.theme-btn');
     themeBtn.addEventListener('click', () =>{
         let element = document.body;
